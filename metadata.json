@@ -1,0 +1,6 @@
+{
+  "name": "MentorAI — Tuteur Socratique & Architecte Pédagogique",
+  "description": "Plateforme EdTech de mentorat actif par méthode socratique, découpage en micro-apprentissages, boucle de rétroaction adaptative et spécification d'architecture IA complète.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
